@@ -12,8 +12,10 @@ Data Source:
 
 EDA: 
 * Initial EDA in order to dig deeper into our data
+
 Housing Trends:
 * PowerPoint deck we presented to our stakeholders (classmates, professor, and TAs)
+
 Hypothesis 1:
 * Further EDA and statistical Analysis for Hypothesis 1
   * Scatterplot of Average SF House Value vs Median Household Income for each year 2013-2019
@@ -21,6 +23,7 @@ Hypothesis 1:
   * Condensed line graph dipicting Affordability Trend over Time for each year 2013-2019
   * Anova testing
   * P-value testing
+
 Hypothesis 2: 
 * Further EDA and statistical Analysis for Hypothesis 2
   * Eplore measures of central tendency, min, max, and quartiles
