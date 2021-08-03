@@ -1,12 +1,12 @@
-## Project_1
-# Group 6
+# Project_1
+## Group 6
 Bradley Barker
 Yingying Li
 
-# Background
+## Background
 For our project, we are trying to help local metro-Atlanta real estate investors understand housing market trends and find areas that are more affordable. We analyzed data from the Census Bureau and Zillow to research our hypotheses.
 
-# Repository Structure
+## Repository Structure
 Data Source: 
 * Imports to read csv files retreived from Census Bureau and Zillow databases
 EDA: 
