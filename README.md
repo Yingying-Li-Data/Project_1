@@ -1,8 +1,8 @@
 # Project_1 - Housing Data Trends in Metro Atlanta
 ## Group 6 (Carnotaurus)
 Presented by: 
-Bradley Barker
-Yingying Li
+* Bradley Barker
+* Yingying Li
 
 ## Background
 For our project, we are trying to help local metro-Atlanta real estate investors understand housing market trends and find areas that are more affordable. We analyzed data from the Census Bureau and Zillow to research our hypotheses.
