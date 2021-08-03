@@ -16,6 +16,12 @@ Hypothesis1 (H1): From 2013 to 2019, housing has become less affordable.
 Hypothesis2 (H2): The difference in affordability is increasing over the years between areas with lower household income and areas with higher household income.
 
 ## Repository Structure
+Data:
+* This folder contains the CSV files obtained from our sources
+
+Images:
+* These images are the plots we used in the presentation
+
 Data Source: 
 * Imports to read csv files retreived from Census Bureau and Zillow databases
 
