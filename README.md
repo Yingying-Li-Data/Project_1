@@ -1,5 +1,5 @@
-# Project_1
-## Group 6
+# Project_1 - Housing Data Trends in Metro Atlanta
+## Group 6: Carnotaurus
 Bradley Barker
 Yingying Li
 
