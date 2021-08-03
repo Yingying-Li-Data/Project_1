@@ -1,5 +1,6 @@
 # Project_1 - Housing Data Trends in Metro Atlanta
-## Group 6: Carnotaurus
+## Group 6 (Carnotaurus)
+Presented by: 
 Bradley Barker
 Yingying Li
 
