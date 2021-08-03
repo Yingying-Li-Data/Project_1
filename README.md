@@ -9,6 +9,7 @@ For our project, we are trying to help local metro-Atlanta real estate investors
 ## Repository Structure
 Data Source: 
 * Imports to read csv files retreived from Census Bureau and Zillow databases
+
 EDA: 
 * Initial EDA in order to dig deeper into our data
 Housing Trends:
