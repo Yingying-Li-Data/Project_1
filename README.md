@@ -5,7 +5,15 @@ Presented by:
 * Yingying Li
 
 ## Background
-For our project, we are trying to help local metro-Atlanta real estate investors understand housing market trends and find areas that are more affordable. We analyzed data from the Census Bureau and Zillow to research our hypotheses.
+For our project, we are trying to help local metro-Atlanta real estate investors understand housing market trends and find areas that are more affordable. We analyzed data from the Census Bureau and Zillow to test our two hypotheses.
+
+## Research Question 1: Is housing becoming less affordable?
+
+Hypothesis1 (H1): From 2013 to 2019, housing has become less affordable.
+
+## Research Question 2: Does the housing affordability trend have the same effect on the areas with different income levels? 
+
+Hypothesis2 (H2): The difference in affordability is increasing over the years between areas with lower household income and areas with higher household income.
 
 ## Repository Structure
 Data Source: 
